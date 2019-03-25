@@ -1,2 +1,2 @@
-# testCompare
+# textCompare
 Compare text program
