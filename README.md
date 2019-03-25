@@ -1,0 +1,2 @@
+# testCompare
+Compare text program
